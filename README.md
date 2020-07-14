@@ -1,7 +1,7 @@
 # Musthave soft for Windows
 Это список программ, обязательных к установке (по нашему мнению) на свежеустановленную Windows.
 
-**Пиратские ссылки в нашем [Telegram-канале](https://teleg.run/musthavesoftwin).**
+**Пиратские ссылки в нашем [Telegram-канале](https://t.me/musthavesoftwin).**
 
 *Все программы указаны по очереди, так что перепрыгивать с одного этапа на другой не придётся.*
 
@@ -18,7 +18,7 @@
 -   Архиватор [7-zip](https://www.7-zip.org/) или [WinRAR](https://www.win-rar.com/start.html) (пиратский [repack](https://t.me/musthavesoftwin/20)).
 -   В случае Windows старше 10, необходимо установить [DirectX](https://www.microsoft.com/ru-ru/Download/confirmation.aspx?id=35) и [.NET](https://support.microsoft.com/ru-ru/help/4503548/microsoft-net-framework-4-8-offline-installer-for-windows).
 -   [KMS-Tools](https://teleg.run/musthavesoftwin/3) с инструментами для активации Windows и Microsoft Office, а также C2R установщик последнего. (ссылка на наш канал)
--   [Daemon Tools Lite](https://www.daemon-tools.cc/rus/products/dtLite).
+-   [Daemon Tools Lite](https://www.daemon-tools.cc/rus/products/dtLite) (в Windows 10 программа не требуется, достаточно всего лишь кликнуть на .iso файл).
 -   [ShareX](https://getsharex.com/) для удобного снятия скриншотов.
 -   [K-Lite Codec Pack](https://codecguide.com/download_kl.htm) для кодеков или [VLC](https://www.videolan.org/vlc/download-windows.ru.html), тоже включающий все кодеки.
 -   [Сборник Visual C++](https://rutracker.org/forum/viewtopic.php?t=5697338) разных годов.
