@@ -35,4 +35,4 @@
 
 ## Игры
 -   [Steam](https://store.steampowered.com/about/).
--   Для Minecraft: [Java](https://adoptopenjdk.net/) (для 1.17+ выбирайте OpenJDK 16, для других — 8; выбор JVM — без разницы) и лаунчер (для лицензии [официальный](https://www.minecraft.net/ru-ru/) или [MultiMC](https://multimc.org/); для пиратов [TL](https://tlaun.ch/exe) или [MultiMC5-Cracked](https://nightly.link/AfoninZ/MultiMC5-Cracked/workflows/main/develop)).
+-   Для Minecraft: [Java](https://adoptium.net/) (для 1.17+ выбирайте OpenJDK 17, для других — 8; выбор JVM — без разницы) и лаунчер (для лицензии [официальный](https://www.minecraft.net/ru-ru/) или [MultiMC](https://multimc.org/); для пиратов [TL](https://tlaun.ch/exe) или [MultiMC5-Cracked](https://nightly.link/AfoninZ/MultiMC5-Cracked/workflows/main/develop)).
